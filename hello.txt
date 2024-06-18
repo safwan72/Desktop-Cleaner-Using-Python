@@ -1,0 +1,2 @@
+files copy and sort based on extensions
+files delete and store in a temporary folder and rename if file exists
